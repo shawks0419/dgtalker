@@ -7,9 +7,10 @@ authors:
     Xiaoxi Liang$^{1}$, Yanbo Fan$^{2}$, Qiya Yang$^{1}$, Xuan Wang$^{3}$, Wei Gao$^{1}$, Ge Li$^{1}$
 affiliations:
     Peking University, Nanjing University, Ant Group
-paper(Coming Soon): TBD
-Apendix(Coming Soon): TBD
-code(Coming Soon): TBD
+paper: https://github.com/invalid-username/invalid-repository
+Apendix: https://github.com/invalid-username/invalid-repository
+code: https://github.com/invalid-username/invalid-repository
+
 # paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 # video: https://www.youtube.com/results?search_query=turing+machine
 # code: https://github.com/topics/turing-machines
