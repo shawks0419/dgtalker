@@ -10,6 +10,10 @@ affiliations:
 paper(Coming Soon): TBD
 Apendix(Coming Soon): TBD
 code(Coming Soon): TBD
+# paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+# video: https://www.youtube.com/results?search_query=turing+machine
+# code: https://github.com/topics/turing-machines
+# data: https://huggingface.co/docs/datasets
 
 ---
 
@@ -31,6 +35,7 @@ In this work, we investigate the generation of high-fidelity, audio-driven 3D Ga
 
 Overall Framework of DGTalker. We design a disentangled navigation framework consisting of an anchor $w_{can}$, which encodes a global canonical expression for a specific identity, and two sets of learnable, orthogonal blendshapes ${B_\text{exp}, B_\text{lip}}$ containing $k_e$ and $k_l$ vectors, respectively. Each vector corresponds to a disentangled variation in upper/lower face expressions. The input audio is used to regress the coefficients of these blendshapes. To ensure effective learning, we randomly feed the encoder with different audio inputs and render the output images from two viewpoints. The corresponding masked ground-truth (GT) images are then used for supervision.
 
+![Turing Machine](/static/image/Turing_machine.png)
 Fig TBD.
 
 ## Generated Videos
