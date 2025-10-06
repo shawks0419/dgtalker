@@ -46,7 +46,6 @@ DGTalker enables generating diverse talking expressions from the same speech con
 <div align="center">
   <video width="480" controls>
     <source src="static/video/control.mp4" type="video/mp4">
-    .
   </video>
 </div>
 
@@ -76,14 +75,14 @@ For the 3D-aware self-driven setting,
   <div>
     <p><b>May</b></p>
     <video width="480" controls>
-      <source src="static/video/May_front.mp4" type="video/mp4">
+      <source src="static/video/May_spiral.mp4" type="video/mp4">
     </video>
   </div>
 
   <div>
     <p><b>Shaheen</b></p>
     <video width="480" controls>
-      <source src="static/video/Shaheen_front.mp4" type="video/mp4">
+      <source src="static/video/Shaheen_spiral.mp4" type="video/mp4">
     </video>
   </div>
 </div>
