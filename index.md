@@ -43,15 +43,33 @@ The learned components possess well-defined semantic meaning, and we show the ch
 DGTalker enables generating diverse talking expressions from the same speech content, providing superior controllability.
 
 <div align="center">
-  <video width="640" controls>
+  <video width="320" controls>
     <source src="static/video/control.mp4" type="video/mp4">
     .
   </video>
 </div>
 
 
-## Generated Videos
-TBD
+## Comparison to SOTA
+We design three settings to evaluate the 3D-aware reconstruction quality and lip-audio synchronization ability.
+
+For the self-driven setting,
+<div align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <div>
+    <p><b>May</b></p>
+    <video width="320" controls>
+      <source src="static/video/May_front.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div>
+    <p><b>Shaheen</b></p>
+    <video width="320" controls>
+      <source src="static/video/Shaheen_front.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
+
 
 ## Citation(Coming Soon)
 ```
