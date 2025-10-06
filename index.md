@@ -9,7 +9,7 @@ affiliations:
     Peking University, Nanjing University, Ant Group
 paper: https://github.com/invalid-username/invalid-repository
 Apendix: https://github.com/invalid-username/invalid-repository
-code: https://github.com/invalid-username/invalid-repository
+# code: https://github.com/invalid-username/invalid-repository
 
 # paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 # video: https://www.youtube.com/results?search_query=turing+machine
