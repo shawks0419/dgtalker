@@ -34,12 +34,19 @@ In this work, we investigate the generation of high-fidelity, audio-driven 3D Ga
 
 Overall Framework of DGTalker. We design a disentangled navigation framework consisting of an anchor $w_{can}$, which encodes a global canonical expression for a specific identity, and two sets of learnable, orthogonal blendshapes ${B_\text{exp}, B_\text{lip}}$ containing $k_e$ and $k_l$ vectors, respectively. Each vector corresponds to a disentangled variation in upper/lower face expressions. The input audio is used to regress the coefficients of these blendshapes. To ensure effective learning, we randomly feed the encoder with different audio inputs and render the output images from two viewpoints. The corresponding masked ground-truth (GT) images are then used for supervision.
 
-![PIPElINE](./static/image/pipeline.png)
+
+<div align="center">
+  <img src="./static/image/pipeline.png" width="640px">
+</div>
+
+
 
 ## Visualization && Controllability
 The learned components possess well-defined semantic meaning, and we show the changes of the two blendshapes as the coefficients vary.
 
-![BLENDSHAPES](./static/image/blendshapes.png)
+<div align="center">
+  <img src="./static/image/blendshapes.png" width="480px">
+</div>
 
 DGTalker enables generating diverse talking expressions from the same speech content, providing superior controllability.
 
