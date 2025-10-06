@@ -44,11 +44,11 @@ Overall Framework of DGTalker. We design a disentangled navigation framework con
 ## Visualization && Controllability
 The learned components possess well-defined semantic meaning, and we show the changes of the two blendshapes as the coefficients vary.
 
-<!-- <div align="center">
-  <img src="./static/image/blendshapes.png" width="480px">
-</div> -->
+<div align="center">
+  <img src="./static/image/Blendshapes.png" width="480px">
+</div>
 
-![Blendshapes](./static/image/blendshapes.png){width=480px}
+<!-- ![Blendshapes](./static/image/blendshapes.png){width=480px} -->
 
 
 DGTalker enables generating diverse talking expressions from the same speech content, providing superior controllability.
@@ -66,14 +66,12 @@ We design three settings to evaluate the 3D-aware reconstruction quality and lip
 For the self-driven setting,
 <div align="center" style="display: flex; justify-content: center; gap: 40px;">
   <div>
-    <p><b>May</b></p>
     <video width="480" controls>
       <source src="static/video/May_front.mp4" type="video/mp4">
     </video>
   </div>
 
   <div>
-    <p><b>Shaheen</b></p>
     <video width="480" controls>
       <source src="static/video/Shaheen_front.mp4" type="video/mp4">
     </video>
