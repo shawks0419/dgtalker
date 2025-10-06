@@ -38,7 +38,7 @@ Overall Framework of DGTalker. We design a disentangled navigation framework con
 
 ## Visualization && Controllability
 The learned components possess well-defined semantic meaning, and we show the changes of the two blendshapes as the coefficients vary.
-![BLENDSHAPES](/static/image/Blendshapes.pdf)
+![BLENDSHAPES](/static/image/Blendshapes.png)
 
 DGTalker enables generating diverse talking expressions from the same speech content, providing superior controllability.
 
